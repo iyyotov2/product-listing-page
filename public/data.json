@@ -1,0 +1,412 @@
+[
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/images/slike-proizvoda/media/DV0/DV0821-200/images/DV0821-200.jpg",
+		"name": "NIKE DUNK LOW REMASTERED",
+		"description": "Sport Shoes",
+		"price": "109.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "green"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DX5/DX5805-600/images/thumbs_900/DX5805-600_900_900px.jpg",
+		"name": "NIKE AIR FORCE I (GS)",
+		"description": "Sport Shoes",
+		"price": "90.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "red"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DJ3/DJ3911-102/images/thumbs_900/DJ3911-102_900_900px.jpg",
+		"name": "NIKE AIR FORCE I LOW RETRO",
+		"description": "Sport Shoes",
+		"price": "89.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "white"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/FJ1/FJ1044-800/images/thumbs_900/FJ1044-800_900_900px.jpg",
+		"name": "NIKE AIR FORCE I LOW RETRO COTM LTR",
+		"description": "Sport Shoes",
+		"price": "89.00",
+		"rating": 5,
+		"brand": "nike",
+		"color": "red"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/GZ2/GZ2613/images/thumbs_900/GZ2613_900_900px.jpg",
+		"name": "ADIDAS FORUM BOLD SHOES",
+		"description": "Sport Shoes",
+		"price": "80.00",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "white"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/FY7/FY7756/images/thumbs_900/FY7756_900_900px.jpg",
+		"name": "ADIDAS FORUM LOW SHOES",
+		"description": "Sport Shoes",
+		"price": "69.99",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "blue"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/EE6/EE6461/images/thumbs_900/EE6461_900_900px.jpg",
+		"name": "ADIDAS OZWEEGO",
+		"description": "Sport Shoes",
+		"price": "100.99",
+		"rating": 5,
+		"brand": "adidas",
+		"color": "green"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DQ7/DQ7659-102/images/thumbs_900/DQ7659-102_900_900px.jpg",
+		"name": "NIKE AIR FORCE 1 '07 LV8",
+		"description": "Sport Shoes",
+		"price": "99.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "red"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/CT2/CT2302-100/images/thumbs_900/CT2302-100_900_900px.jpg",
+		"name": "NIKE AIR FORCE 1 '07",
+		"description": "Sport Shoes",
+		"price": "95.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "white"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/VN0/VN000D5IB8C/images/thumbs_900/VN000D5IB8C_900_900px.jpg",
+		"name": "VANS UA SK8-Hi",
+		"description": "Sport Shoes",
+		"price": "79.99",
+		"rating": 4,
+		"brand": "vans",
+		"color": "black"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/CM9/CM997HPK/images/thumbs_900/CM997HPK_900_900px.JPG",
+		"name": "NEW BALANCE 997",
+		"description": "Sport Shoes",
+		"price": "86.99",
+		"rating": 5,
+		"brand": "new-balance",
+		"color": "black"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/M57/M574DGEX/images/thumbs_900/M574DGEX_900_900px.JPG",
+		"name": "NEW BALANCE PATIKE M574",
+		"description": "Sport Shoes",
+		"price": "90.00",
+		"rating": 5,
+		"brand": "new-balance",
+		"color": "orange"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/BB5/BB5476/images/thumbs_900/BB5476_900_900px.jpg",
+		"name": "ADIDAS GAZELLE",
+		"description": "Sport Shoes",
+		"price": "83.99",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "black"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/CN5/CN5909/images/thumbs_900/CN5909_900_900px.jpg",
+		"name": "REEBOK RAPIDE MU",
+		"description": "Sport Shoes",
+		"price": "68.99",
+		"rating": 3,
+		"brand": "reebok",
+		"color": "blue"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/FX5/FX5501/images/thumbs_900/FX5501_900_900px.jpg",
+		"name": "ADIDAS STAN SMITH",
+		"description": "Sport Shoes",
+		"price": "60.99",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "white"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/381/381595-01/images/thumbs_900/381595-01_900_900px.jpg",
+		"name": "PUMA WILD RIDER VINTAGE",
+		"description": "Sport Shoes",
+		"price": "70.00",
+		"rating": 4,
+		"brand": "puma",
+		"color": "blue"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/120/1201A382-101/images/thumbs_900/1201A382-101_900_900px.jpg",
+		"name": "ASICS JAPAN S",
+		"description": "Sport Shoes",
+		"price": "75.99",
+		"rating": 4,
+		"brand": "asics",
+		"color": "white"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/387/387161-03/images/thumbs_900/387161-03_900_900px.jpg",
+		"name": "PUMA RS-SIMUL8 CORE",
+		"description": "Sport Shoes",
+		"price": "80.99",
+		"rating": 4,
+		"brand": "puma",
+		"color": "black"
+	},
+	{
+		"type": "/",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/387/387166-02/images/thumbs_900/387166-02_900_900px.jpg",
+		"name": "PUMA RS-METRIC CORE",
+		"description": "Sport Shoes",
+		"price": "85.89",
+		"rating": 4,
+		"brand": "puma",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/IC5/IC5738/images/thumbs_900/IC5738_900_900px.jpg",
+		"name": "ADIDAS GRAPHICS HACK",
+		"description": "T-Shirts",
+		"price": "29.99",
+		"rating": 3,
+		"brand": "adidas",
+		"color": "white"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/MT3/MT33551-NWG/images/thumbs_900/MT33551-NWG_900_900px.jpg",
+		"name": "NEW BALANCE ATHLETICS VARSITY GRAPHIC",
+		"description": "T-Shirts",
+		"price": "45.00",
+		"rating": 5,
+		"brand": "new-balance",
+		"color": "green"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DX9/DX9597-687/images/thumbs_900/DX9597-687_900_900px.jpg",
+		"name": "NIKE M J BRAND GFX SS CREW 3",
+		"description": "T-Shirts",
+		"price": "39.00",
+		"rating": 4,
+		"brand": "jordan",
+		"color": "red"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/CK4/CK4212-092/images/thumbs_900/CK4212-092_900_900px.jpg",
+		"name": "NIKE JORDAN AIR WORDMARK",
+		"description": "T-Shirts",
+		"price": "39.99",
+		"rating": 5,
+		"brand": "jordan",
+		"color": "grey"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DZ5/DZ5171-010/images/thumbs_900/DZ5171-010_900_900px.jpg",
+		"name": "NIKE M NSW TEE 12MO FUTURA",
+		"description": "T-Shirts",
+		"price": "39.00",
+		"rating": 4,
+		"brand": "nike",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DZ3/DZ3279-410/images/thumbs_900/DZ3279-410_900_900px.jpg",
+		"name": "NIKE M NSW TEE FUTURA 2",
+		"description": "T-Shirts",
+		"price": "40.99",
+		"rating": 4,
+		"brand": "nike",
+		"color": "blue"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/FD1/FD1296-010/images/thumbs_900/FD1296-010_900_900px.jpg",
+		"name": "NIKE M NSW TEE M90 6MO FUTURA",
+		"description": "T-Shirts",
+		"price": "38.00",
+		"rating": 4,
+		"brand": "nike",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/128/12893147/images/thumbs_900/12893147_900_900px.jpg",
+		"name": "NEW ERA MAJICA MLB LEFT CHEST TEAM LOGO T BOSRED",
+		"description": "T-Shirts",
+		"price": "40.00",
+		"rating": 3,
+		"brand": "new-era",
+		"color": "blue"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/BZA/BZA221M807-66/images/thumbs_900/BZA221M807-66_900_900px.jpg",
+		"name": "BUZZ SKELETON",
+		"description": "T-Shirts",
+		"price": "20.99",
+		"rating": 3,
+		"brand": "buzz",
+		"color": "yellow"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/BZA/BZA221M812-01/images/thumbs_900/BZA221M812-01_900_900px.jpg",
+		"name": "BUZZ DAVID",
+		"description": "T-Shirts",
+		"price": "20.99",
+		"rating": 3,
+		"brand": "buzz",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/BZA/BZA221M814-10/images/thumbs_900/BZA221M814-10_900_900px.jpg",
+		"name": "BUZZ ASTRONAUT",
+		"description": "T-Shirts",
+		"price": "20.99",
+		"rating": 3,
+		"brand": "buzz",
+		"color": "white"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/FB8/FB8191-010/images/thumbs_900/FB8191-010_900_900px.jpg",
+		"name": "NIKE W NSW TEE OC 3 BOXY",
+		"description": "T-Shirts",
+		"price": "35.99",
+		"rating": 4,
+		"brand": "nike",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/VN0/VN0A5HNMBLK/images/thumbs_900/VN0A5HNMBLK_900_900px.jpg",
+		"name": "VANS WM DROP V SS CREW-B BLACK",
+		"description": "T-Shirts",
+		"price": "45.99",
+		"rating": 5,
+		"brand": "vans",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/VN0/VN0A3UP4WHT/images/thumbs_900/VN0A3UP4WHT_900_900px.jpg",
+		"name": "VANS WM FLYING V CREW TEE",
+		"description": "T-Shirts",
+		"price": "45.99",
+		"rating": 5,
+		"brand": "vans",
+		"color": "white"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/HB9/HB9479/images/thumbs_900/HB9479_900_900px.jpg",
+		"name": "ADIDAS CROPPED TEE",
+		"description": "T-Shirts",
+		"price": "32.00",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "purple"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/HK9/HK9637/images/thumbs_900/HK9637_900_900px.jpg",
+		"name": "ADIDAS TREFOIL",
+		"description": "T-Shirts",
+		"price": "36.00",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "orange"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/BZA/BZA221F803-01/images/thumbs_900/BZA221F803-01_900_900px.jpg",
+		"name": "BUZZ MEDUZA",
+		"description": "T-Shirts",
+		"price": "19.99",
+		"rating": 3,
+		"brand": "buzz",
+		"color": "black"
+	},
+	{
+		"type": "/t-shirts",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DO2/DO2558-033/images/thumbs_900/DO2558-033_900_900px.jpg",
+		"name": "NIKE W NSW CROP SS TEE PRNT",
+		"description": "T-Shirts",
+		"price": "38.99",
+		"rating": 4,
+		"brand": "nike",
+		"color": "grey"
+	},
+	{
+		"type": "/hoodies",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/VN0/VN0A7Y3X4QU/images/thumbs_900/VN0A7Y3X4QU_900_900px.jpg",
+		"name": "VANS PO-B PORT ROYALE",
+		"description": "Hoodies",
+		"price": "70.99",
+		"rating": 4,
+		"brand": "vans",
+		"color": "red"
+	},
+	{
+		"type": "/hoodies",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/IA4/IA4885/images/thumbs_900/IA4885_900_900px.jpg",
+		"name": "ADIDAS TREFOIL HOODY",
+		"description": "Hoodies",
+		"price": "65.00",
+		"rating": 4,
+		"brand": "adidas",
+		"color": "blue"
+	},
+	{
+		"type": "/hoodies",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/CU4/CU4489-700/images/thumbs_900/CU4489-700_900_900px.jpg",
+		"name": "NIKE M NSW TCH FLC HOODIE FZ WR",
+		"description": "Hoodies",
+		"price": "73.99",
+		"rating": 4,
+		"brand": "nike",
+		"color": "yellow"
+	},
+	{
+		"type": "/hoodies",
+		"img": "https://www.buzzsneakers.bg/files/thumbs/files/images/slike-proizvoda/media/DX0/DX0566-010/images/thumbs_900/DX0566-010_900_900px.jpg",
+		"name": "NIKE M NK SWOOSH FLC HZ HOODIE",
+		"description": "Hoodies",
+		"price": "80.99",
+		"rating": 5,
+		"brand": "nike",
+		"color": "black"
+	}
+]
